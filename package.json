@@ -1,6 +1,6 @@
 {
-  "name": "node-sdl2",
-  "version": "2.1.2",
+  "name": "@bunchtogether/node-sdl2",
+  "version": "2.1.3",
   "description": "Bindings for SDL2 in Node",
   "main": "index.js",
   "dependencies": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zetsingithub/node-sdl2.git"
+    "url": "https://github.com/bunchtogether/node-sdl2.git"
   },
   "keywords": [
     "node",
@@ -31,7 +31,7 @@
   "author": "Zetsin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zetsingithub/node-sdl2/issues"
+    "url": "https://github.com/bunchtogether/node-sdl2/issues"
   },
-  "homepage": "https://github.com/zetsingithub/node-sdl2"
+  "homepage": "https://github.com/bunchtogether/node-sdl2"
 }
